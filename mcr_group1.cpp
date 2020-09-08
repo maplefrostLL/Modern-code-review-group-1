@@ -78,7 +78,7 @@ break; // need to terminate the problem
 } 
 
 if (i==3) // all celles with i=0 to 2 have been inputted above but no winner yet 
-
+//the judgding condition should be i==9
 cout << "Tie!" << endl; 
 
 // show the game to console 
