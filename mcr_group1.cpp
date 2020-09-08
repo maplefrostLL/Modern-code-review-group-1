@@ -55,7 +55,7 @@ Else //should be else
 
 cout << "Player 2: "; 
 
-cout << "Which cell to mark? i:[1..3], j:[1..3]: "; 
+cout << "Which cell to mark? i:[1..3], j:[1..3]: "; //the range of i and j should be 0-2
 
 cin >> i >> j; 
 
