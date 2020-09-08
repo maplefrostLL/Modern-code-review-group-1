@@ -51,7 +51,7 @@ if (turn == false)
 
 cout << "Player 1: "; 
 
-Else 
+Else //should be else  
 
 cout << "Player 2: "; 
 
