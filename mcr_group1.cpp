@@ -41,7 +41,7 @@ char player2 = 'O';
 
 bool turn = true; // false for player 1's turn, true for player 2's turn. Player 1 first. 
 
-cout << "X = Player 1" << endl << "O = Player 2" << endl; 
+cout << "X = Player 1" << endl << "O = Player 2" << endl; //should not use endl in the middle
 
 for (int n=0; n<9; n++){ 
 
